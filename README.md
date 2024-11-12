@@ -99,6 +99,16 @@
 
 ###
 
+<div style="text-align: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pooya-dani76/pooya-dani76/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/pooya-dani76/pooya-dani76/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/pooya-dani76/pooya-dani76/blob/output/ocean.gif" />
+  </picture>
+</div>
+
+###
+
 <img align="left" src="https://profile-counter.glitch.me/pooya-dani76/count.svg?"  />
 
 ###
