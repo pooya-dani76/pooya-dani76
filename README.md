@@ -6,6 +6,10 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">A Full Stack Developer From The Persia 🇮🇷</h2>
 
 ###
@@ -16,7 +20,7 @@
 
 <br clear="both">
 
-<h3 align="center">Connect With Me</h3>
+<h2 align="center">Connect With Me</h2>
 
 ###
 
@@ -48,7 +52,7 @@
 
 ###
 
-<h3 align="center">Languages & Tools</h3>
+<h2 align="center">Languages & Tools</h2>
 
 ###
 
