@@ -1,16 +1,10 @@
+<br clear="both">
+
 <h1 align="center">Hi 👋, I'm Pooya</h1>
 
 ###
 
-<p align="left"></p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h2 align="center">A Full Stack Developer From The Persia 🇮🇷</h2>
+<h3 align="center">A Full Stack Developer From The Persia 🇮🇷</h3>
 
 ###
 
@@ -41,10 +35,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
@@ -83,10 +73,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
