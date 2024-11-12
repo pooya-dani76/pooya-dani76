@@ -2,13 +2,15 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
 <h2 align="center">A Full Stack Developer From The Persia 🇮🇷</h2>
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/pooya-dani76/count.svg?"  />
-</div>
+<p align="left"></p>
 
 ###
 
@@ -35,6 +37,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -72,7 +82,15 @@
 
 ###
 
-<div align="left">
+<h1 align="left"></h1>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-dani76&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pooya-dani76&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=pooya-dani76&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -81,6 +99,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pooya-dani76/pooya-dani76/output/snake.svg" alt="Snake animation" />
+<p align="left"></p>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/pooya-dani76/count.svg?"  />
 
 ###
