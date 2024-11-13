@@ -54,7 +54,7 @@
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,flask,opencv,sklearn,tensorflow,c,cpp,mysql,postman,docker,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,flask,opencv,sklearn,tensorflow,mysql,postman,docker,firebase,git" />
 </div>
 
 ###
