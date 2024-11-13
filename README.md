@@ -1,10 +1,16 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Pooya</h1>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋+I'm+Pooya;" />
+</div>
 
 ###
 
-<h3 align="center">A Full Stack Developer From The Persia 🇮🇷</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=A+Full+Stack+Developer+From+Persia+🇮🇷;" />
+</div>
 
 ###
 
@@ -14,7 +20,7 @@
 
 <br clear="both">
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">🤝 Connect With Me</h2>
 
 ###
 
@@ -44,38 +50,11 @@
 
 ###
 
-<h2 align="center">Languages & Tools</h2>
+<h2 align="center">🚀 Languages & Tools</h2>
 
 ###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,flask,opencv,sklearn,tensorflow,c,cpp,mysql,postman,docker,firebase,git" />
 </div>
 
 ###
@@ -85,6 +64,8 @@
 <p align="left"></p>
 
 ###
+
+<h2 align="center">📈 Status</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pooya-dani76&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
